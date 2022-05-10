@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Energy consumption and green house gas emissions by country post Paris Agreement</title>
+    <link>https://s213079.github.io/energydata.github.io/</link>
+    <description>Recent content on Energy consumption and green house gas emissions by country post Paris Agreement</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate><atom:link href="https://s213079.github.io/energydata.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Global Change in Emissions</title>
+      <link>https://s213079.github.io/energydata.github.io/portfolio/globevis/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://s213079.github.io/energydata.github.io/portfolio/globevis/</guid>
+      <description>&lt;p&gt;Click the header above to explore the change in fossil fuel and low-carbon energy consumption and the change in greenhouse gas emissions around the world with an interactable globe. Which country is making the biggest changes?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Country Energy Consumptions</title>
+      <link>https://s213079.github.io/energydata.github.io/portfolio/barvis/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://s213079.github.io/energydata.github.io/portfolio/barvis/</guid>
+      <description>&lt;p&gt;Click the header above to explore what types of energy are being used the most in each country with an interactable bar plots. Who is the current leading consumer of each energy type?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Economic impact of greenhouse gas emissions</title>
+      <link>https://s213079.github.io/energydata.github.io/portfolio/linevis/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://s213079.github.io/energydata.github.io/portfolio/linevis/</guid>
+      <description>&lt;p&gt;Click the header above to explore correlations between population, GDP, and green house gas emissions with interactable line plots. Do countries notice a decrease in GDP with change to low-carbon emissions?&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
